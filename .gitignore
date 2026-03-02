@@ -1,0 +1,5 @@
+# 忽略 MATLAB 自动备份
+*.asv
+
+# 忽略 Simulink 缓存 (如果有)
+slprj/
